@@ -1,5 +1,5 @@
 # SD_WebApp
-Simple web app that allows you to run a local install of Stable Diffusion from your smart phone. This web app requires that you have already installed Stable Diffusion and have made modifications based on the install process laid out in these 2 YouTube videos that you should watch in the following order:
+Simple web app that allows you to run a local install of Stable Diffusion from your smart phone. This web app requires that you have already installed Stable Diffusion and have made modifications based on the install process laid out in these 2 YouTube videos that you should watch in the following order:<br>
 https://www.youtube.com/watch?v=z99WBrs1D3g&t=70s <br>
 https://www.youtube.com/watch?v=F-d67sUUFic
 
