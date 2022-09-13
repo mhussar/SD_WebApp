@@ -3,6 +3,6 @@ Simple web app that allows you to run a local install of Stable Diffusion from y
 https://www.youtube.com/watch?v=z99WBrs1D3g&t=70s <br>
 https://www.youtube.com/watch?v=F-d67sUUFic
 
-Here is my Youtube tutorial that walks you through how to setup/install/run this web app. 
+Here is my Youtube tutorial that walks you through how to setup/install/run this web app: https://youtu.be/_bEA3hzVO8E
 
 
